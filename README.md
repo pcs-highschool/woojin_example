@@ -18,7 +18,12 @@
     - <Vue VS Code Extension Pack>
 4. Bash Terminal Open
     1. vscode → Ctrl + Shift + ` → new bash terminal
-5. npm install -g yarn # yarn manager 설치
+
+```shell
+# yarn manager 설치
+npm install -g yarn
+```
+
 6. 터미널에서 버전 확인
 ```shell
 node -v
